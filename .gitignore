@@ -1,0 +1,8 @@
+# Keep private API credentials out of Git
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
